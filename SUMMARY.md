@@ -33,7 +33,7 @@ Tasks I was assigned included:
 1. Creating a requirements report
 2. Examining the feasability of solutions
 3. Desiging the solution
-4. Implementing a Database system utilising Microsoft ACcess and simple SQL commands 
+4. Implementing a Database system utilising Microsoft Access and simple SQL commands 
 5. Assessing the ethical issues of the project
 6. Discussing the implementation plan 
 
