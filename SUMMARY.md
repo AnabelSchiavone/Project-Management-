@@ -1,7 +1,7 @@
 # Project-Management-
 This repo features projects that I have been involved in as Project Manager. 
 
-Project 1: 
+**Project 1: **
 Team Leader for the Engineers Without Borders Dawul Wuru 2023 Challenge. 
 Project Problem: "Indigenous elders within the Yirrganydji region are unable to connect with country due to their mobility issues"
 
@@ -11,7 +11,9 @@ Tasks I was assigned included:
 3. Evaluating and ideating several design solutions against the design criteria established 
 4. Assisting in creating a high fidelity application prototype utilising Adobe XD technology
 
-Project 2: 
+This project is featured in the repository.
+
+**Project 2: **
 Project Manager for a mock business "Ski-On-Inn" inorder to update how the company utilises IT for conducting business operations.
 Project Problem: Ski-On-Inn are receiving complaints about how their website and booking system are unable to handle user requests. 
 
@@ -23,7 +25,7 @@ Tasks I was assigned included:
 5. Designing solutions to combat these problems
 6. Implementing a Booking Datbase utilising Microsoft Access and simple SQL commands
 
-Project 3:
+**Project 3:**
 Project Manager for a mock business "Whole Health" inorder to update how the company utilises IT for conducting business operations.
 Project Problem: Whole Health are needing to update business operations inorder to cope with increasing patient data. 
 
