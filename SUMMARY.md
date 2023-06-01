@@ -1,7 +1,7 @@
 # Project-Management-
 This repo features projects that I have been involved in as Project Manager. 
 
-**Project 1: **
+**Project 1:**
 Team Leader for the Engineers Without Borders Dawul Wuru 2023 Challenge. 
 Project Problem: "Indigenous elders within the Yirrganydji region are unable to connect with country due to their mobility issues"
 
@@ -13,7 +13,7 @@ Tasks I was assigned included:
 
 This project is featured in the repository.
 
-**Project 2: **
+**Project 2:**
 Project Manager for a mock business "Ski-On-Inn" inorder to update how the company utilises IT for conducting business operations.
 Project Problem: Ski-On-Inn are receiving complaints about how their website and booking system are unable to handle user requests. 
 
